@@ -56,7 +56,6 @@ Normal environment: The agent has perfect convergence and is ranked at the very 
 - Sophistication marks: 30/30
 - Video marks: 18/20
   <br>
-  
 - **Final grade: 98/100**
 
 <br>
@@ -89,7 +88,7 @@ Distributed under the MIT License. Of course, I do not claim rights or ownership
 
 ## Contact
 
-Piotr Borowiecki - [@pjborowiecki](https://twitter.com/pjborowiecki) - hello@pjborowiecki.com
+Piotr Borowiecki - [@pjborowiecki](https://www.linkedin.com/in/pjborowiecki/) - hello@pjborowiecki.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
