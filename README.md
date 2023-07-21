@@ -56,7 +56,8 @@ Normal environment: The agent has perfect convergence and is ranked at the very 
 - Sophistication marks: 30/30
 - Video marks: 18/20
   <br>
-- **Final grade:** 98/100
+
+- **Final grade: 98/100**
   <br>
 
 <!-- CONTRIBUTING -->
